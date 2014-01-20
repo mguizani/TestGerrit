@@ -16,6 +16,8 @@ String chaine13 = "line13 to commit for gerrit";
 
 String chaine14 = "line14 to commit for gerrit";
 String chaine15 = "line15 to commit for gerrit";
+String chaine16 = "line16 to commit for gerrit";
+String chaine162 = "line162 to commit for gerrit";
 
 
 }
